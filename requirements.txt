@@ -1,3 +1,4 @@
 jupyter-book
 matplotlib==3.2.1
 numpy
+seaborn==0.10.1
