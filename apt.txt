@@ -1,1 +1,2 @@
+#njc Needed for ffmpeg (not a python library). Otherwise HTML movie will fail.
 ffmpeg
