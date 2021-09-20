@@ -5,4 +5,5 @@ numpy
 seaborn==0.10.1
 #Problem with ffmpeg (not found). Deprecating to 2.4.1 still doesn't work:
 imageio==2.9.0
+imageio-ffmpeg==0.4.5
 pillow
