@@ -1,6 +1,8 @@
+#njc This only seems to be used when launching the live code option in the online-book:
 jupyter-book
 matplotlib==3.2.1
 numpy
 seaborn==0.10.1
-imageio==2.4.1
+#Problem with ffmpeg (not found). Deprecating to 2.4.1 still doesn't work:
+imageio==2.9.0
 pillow
